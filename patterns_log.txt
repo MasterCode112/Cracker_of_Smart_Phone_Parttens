@@ -1,0 +1,8 @@
+Viewed Pattern 1: (1, 2, 3, 4)
+Viewed Pattern 2: (1, 2, 3, 5)
+Viewed Pattern 3: (1, 2, 3, 6)
+Viewed Pattern 1: (1, 2, 3, 4)
+Viewed Pattern 2: (1, 2, 3, 5)
+Viewed Pattern 3: (1, 2, 3, 6)
+Viewed Pattern 4: (1, 2, 3, 7)
+Viewed Pattern 5: (1, 2, 3, 8)
