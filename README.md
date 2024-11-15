@@ -31,7 +31,7 @@ If no errors appear, you’re ready to go! If tkinter is not installed, refer to
 python mastercode_hacking_tool.py
 ```
 3. Upon launching, the tool will prompt you to enter a canvas size (e.g., 600 for a 600x600 window). This controls the size of the lock pattern display.
-4. Use the Next and Previous buttons to navigate through patterns. The pattern count at the bottom displays your current position out of 389,112 possible patterns.
+4. Use the Next and Previous buttons to navigate through patterns. The pattern count at the bottom displays your current position out of `389,112` possible patterns.
 5. Each viewed pattern is automatically logged to patterns_log.txt in the script’s directory.
    
 ## How It Works
